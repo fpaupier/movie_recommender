@@ -22,7 +22,10 @@ To update your preferences, edit `code\movie_recommender.m`, line 22, add a line
 my_ratings(movie_idx) = 3;
 ```
 Where ``movie_idx`` is the index of the movie you want to rate 3/5.
-The list of all movies and their number in the dataset can be found listed in the file `data/movie_ids.txt`
+The list of all movies and their number in the dataset can be found listed in the file `data\movie_ids.txt`
+
+Then, to get your recommendations, simply run the script `code\movie_recommender.m`, the recommendations
+are outputted in the console.
 
 ## Note
 
