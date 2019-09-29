@@ -1,4 +1,6 @@
-# Movie_recommender using collaborative filtering
+# Movie recommendation
+ 
+ A simple implementation of a Movie recommendation system using collaborative filtering
 
 ## Goal of the project
 
@@ -30,3 +32,6 @@ are outputted in the console.
 ## Note
 
 This project was part of [Andrew Ng's Mooc on machine learning](https://www.coursera.org/learn/machine-learning) which I strongly recommend.
+
+
+This project is no longer updated.
